@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+dist/
+dist-ssr/
+*.local
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+
+# TypeScript build info
+*.tsbuildinfo
